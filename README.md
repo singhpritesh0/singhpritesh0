@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Singh Pritesh</h1>
-<h3 align="center">A passionate Mobile App developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhpritesh0&label=Profile%20views&color=0e75b6&style=flat" alt="singhpriteshh" /> </p>
 
-- 🔭 I’m currently working on **Material App**
+- 🔭 I’m currently working on **E-Commerce Site**
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Android, frontend**
+- 💬 Ask me about **web, frontend**
 
 - 📫 How to reach me **singhpritesh7599@gmail.com**
 
