@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhpritesh0&label=Profile%20views&color=0e75b6&style=flat" alt="singhpriteshh" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Site**
+- 🔭 I’m currently working on **LMS**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **web, frontend**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **singhpritesh7599@gmail.com**
 
