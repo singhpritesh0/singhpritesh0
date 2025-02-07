@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhpritesh0&label=Profile%20views&color=0e75b6&style=flat" alt="singhpriteshh" /> </p>
 
-- 🔭 I’m currently working on **LMS**
+- 🔭 I’m currently working on **Digital Service Report Generator**
 
 - 🌱 I’m currently learning **Node.js**
 
